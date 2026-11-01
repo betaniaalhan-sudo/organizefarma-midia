@@ -1,10 +1,12 @@
 Receita eletrônica de controlado no balcão: o que conferir antes de dispensar no novo fluxo do SNCR.
 
-Desde 30/09/2026, as receitas eletrônicas de controlados passam a ter numeração do SNCR, e a farmácia passou a consultar e registrar a utilização dessas receitas no sistema.
+Desde 30/09/2026, o SNCR numera as receitas eletrônicas de controlados, e a farmácia passou a consultar e registrar a utilização dessas receitas no sistema.
 
 No carrossel, os 4 passos da conferência: identificar o receituário (NR, RCE ou RET), validar a assinatura eletrônica, consultar o número no SNCR e registrar a utilização depois da dispensação.
 
-Um ponto que gera dúvida na equipe: o status "Autorizada" no SNCR não substitui a conferência da validade e dos campos obrigatórios. E o SNCR não substitui o SNGPC.
+Atenção ao prazo: em 29/10, a Anvisa prorrogou até 03/03/2027 a transição das RCE e RET eletrônicas. Até lá, ainda podem chegar receitas emitidas sem número do SNCR, e o procedimento é outro (está no card 6).
+
+E um ponto que gera dúvida na equipe: o status "Autorizada" não substitui a conferência da validade e dos campos obrigatórios. O SNCR também não substitui o SNGPC.
 
 Base: RDC Anvisa nº 1.000/2025 e Cartilha "SNCR e receituários controlados" para farmácias (Anvisa, set/2026).
 
