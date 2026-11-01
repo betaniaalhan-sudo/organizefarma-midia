@@ -110,20 +110,11 @@ SLIDES = [
 <li>Guarde o registro em meio eletrônico para a fiscalização</li>
 </ul>
 <div class="alerta">O SNCR <b>não substitui</b> o SNGPC. A escrituração continua obrigatória.</div>"""),
-    ("", """
-<div class="passo">Atenção ao prazo</div>
-<h2>Transição de RCE e RET prorrogada até <em>03/03/2027</em></h2>
-<ul>
-<li>Até lá, ainda podem chegar <b>RCE e RET eletrônicas sem número do SNCR</b>, emitidas pelo fluxo anterior</li>
-<li>Nesse caso, <b>não há</b> consulta nem registro de utilização no SNCR</li>
-<li>Guarde a receita e registre a dispensação no próprio documento</li>
-</ul>
-<p class="nota">Decisão da Diretoria Colegiada da Anvisa em 29/10/2026 (alteração da RDC 1.000/2025).</p>"""),
     ("final", """
 <img class="logo-final" src="{LOGO}">
 <h2 class="centro">"Autorizada" no SNCR <em>não encerra</em> a conferência.</h2>
 <p class="lead centro">Salve este post e compartilhe com a equipe do balcão.</p>
-<p class="fonte centro">Fontes: RDC Anvisa nº 1.000/2025 · Cartilha "SNCR e receituários controlados" para farmácias (Anvisa, set/2026) · Anvisa, 20ª ROP de 29/10/2026.</p>"""),
+<p class="fonte centro">Fontes: RDC Anvisa nº 1.000/2025 · Cartilha "SNCR e receituários controlados" para farmácias (Anvisa, set/2026).</p>"""),
 ]
 TOTAL = len(SLIDES)
 

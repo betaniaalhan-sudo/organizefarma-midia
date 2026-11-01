@@ -4,7 +4,7 @@ Desde 30/09/2026, o SNCR numera as receitas eletrônicas de controlados, e a far
 
 No carrossel, os 4 passos da conferência: identificar o receituário (NR, RCE ou RET), validar a assinatura eletrônica, consultar o número no SNCR e registrar a utilização depois da dispensação.
 
-Atenção ao prazo: em 29/10, a Anvisa prorrogou até 03/03/2027 a transição das RCE e RET eletrônicas. Até lá, ainda podem chegar receitas emitidas sem número do SNCR, e o procedimento é outro (está no card 6).
+Sobre o novo prazo da transição das RCE e RET, veja o post anterior.
 
 E um ponto que gera dúvida na equipe: o status "Autorizada" não substitui a conferência da validade e dos campos obrigatórios. O SNCR também não substitui o SNGPC.
 
