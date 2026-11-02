@@ -72,12 +72,38 @@ As telas vão prontas e ela publica pelo app, adicionando o figurinha na tela ma
 
 - Imagens/vídeo ficam públicos em
   `https://raw.githubusercontent.com/betaniaalhan-sudo/organizefarma-midia/main/<pasta>/<arquivo>`.
+- Confira antes que o push do post já chegou ao `main` e que cada URL responde
+  200 (`curl -s -o /dev/null -w "%{http_code}"`).
+
+### Caminho oficial: Windsor.ai (funciona direto da nuvem)
+
+- Conector `instagram`, conta `17841404439734351` (betaniaalhan). Confirme com
+  `get_connectors` que a conta aparece; se não aparecer, peça a ela para
+  selecionar a conta em https://onboard.windsor.ai?datasource=instagram
+  (não basta fazer login: a conta tem que ser marcada e salva).
+- `execute_action` (connector `instagram`, account `17841404439734351`) com a
+  ação do formato do dia (confira o schema com `list_actions`):
+  - Carrossel: `create_carousel_post` — `image_urls` (2 a 10 JPEG, ≤ 8 MB,
+    proporção entre 4:5 e 1,91:1, na ordem 01, 02, …) e `caption`.
+  - Card: `create_image_post` — `image_url` e `caption`.
+  - Reel: `create_video_post` — `video_url`, `caption` e `cover_url`.
+  - Stories de domingo: continuam pelo app (a figurinha de enquete/caixa de
+    perguntas não existe na API).
+- `caption` = conteúdo exato de `legenda.txt` (máx. 2.200 caracteres).
+- A resposta traz o `Media id`.
+
+### Alternativa: Graph API pelo Chrome dela (só se a Windsor falhar)
+
 - A API (graph.facebook.com, v26.0, IG user 17841404439734351) só é alcançável
   pelo Chrome dela: `fetch` via Claude in Chrome a partir de uma página do
   facebook.com. O token está no `.env` em
   `Documentos\instagram-organize-farma` (ler pela ponte, **nunca exibir**).
+  Exige o computador dela conectado à sessão.
 - Fluxo: criar containers (`/media`), esperar `status_code=FINISHED`,
   `/media_publish`. Carrossel: itens com `is_carousel_item=true` e pai
   `media_type=CAROUSEL`. Reel: `media_type=REELS`, `video_url`, `cover_url`.
   Card: `image_url`.
-- Depois de publicar: status `publicado` e o id da mídia no registro; commit e push.
+
+### Depois de publicar
+
+- Status `publicado` e o id da mídia no registro; commit e push.
