@@ -25,7 +25,7 @@ acrescente ângulos novos quando surgirem normas, dúvidas de clientes ou notíc
 
 ## LIC — Licenças, vigilância e documentação
 - [ ] Checklist de documentos que o fiscal pede primeiro
-- [ ] AFE × licença sanitária: qual é qual
+- [x 2026-11-03] AFE × licença sanitária: qual é qual (reel)
 - [ ] POPs obrigatórios da farmácia e como mantê-los vivos
 - [ ] Autoinspeção: como fazer e registrar
 - [ ] PGRSS: o que precisa estar no plano
