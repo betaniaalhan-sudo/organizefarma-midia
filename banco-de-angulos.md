@@ -17,7 +17,7 @@ acrescente ângulos novos quando surgirem normas, dúvidas de clientes ou notíc
 - [ ] Quantidade máxima por receita (Portaria 344/98)
 
 ## ATM — Antimicrobianos e GLP-1
-- [ ] Validade de 10 dias da receita de antimicrobiano
+- [x 2026-11-04] Validade de 10 dias da receita de antimicrobiano (card)
 - [ ] GLP-1: validade de 90 dias e dispensação fracionada
 - [ ] Retenção da 2ª via: o que conferir antes de reter
 - [ ] Antimicrobiano de uso contínuo: o que muda na receita
