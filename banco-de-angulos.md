@@ -4,6 +4,12 @@ Cada linha é **uma** informação que rende um post. Ao usar, troque `[ ]` por
 `[x AAAA-MM-DD]`. Confirme o conteúdo na fonte oficial antes de publicar;
 acrescente ângulos novos quando surgirem normas, dúvidas de clientes ou notícias.
 
+Pilares desde 05/11/2026 (ver ROTINA.md): **VISA** (segunda) = seções CTRL, ATM,
+LIC e PUB abaixo + a seção VISA; **CFF** (terça) = seção SERV + a seção CFF;
+**CAR** (quarta), **PERF** (quinta), **LEVE** (sexta).
+Números de resolução marcados com "(conferir)" precisam de checagem na fonte
+oficial antes de ir para a arte.
+
 ## CTRL — SNCR e controlados
 - [x 2026-10] Prorrogação da transição de RCE/RET para 03/03/2027 (post já publicado)
 - [x 2026-11-02] Passo a passo da conferência da receita eletrônica no balcão (carrossel)
@@ -44,7 +50,47 @@ acrescente ângulos novos quando surgirem normas, dúvidas de clientes ou notíc
 - [ ] Vitrine e gôndola: exposição de medicamentos
 - [ ] Influenciador e farmácia: cuidados
 
-## CAR — Carreira e responsabilidade técnica
+## VISA — Vigilância sanitária (Anvisa, estado, município)
+- [ ] Inspeção da vigilância municipal: o que costuma ser olhado primeiro
+- [ ] Licença sanitária: quando a renovação depende do município e quando do estado
+- [ ] Mudou layout ou ampliou a farmácia? Quando a vigilância precisa ser comunicada
+- [ ] Termo de intimação × auto de infração: diferença e prazos de defesa (regra local)
+- [ ] RDC 44/2009: os itens de Boas Práticas mais cobrados na inspeção
+- [ ] Temperatura e umidade: registro diário que a vigilância pede
+- [ ] Descarte de medicamentos vencidos e PGRSS na prática
+
+## CFF — Atribuições, responsabilidades e licenciamento
+- [ ] Atribuições clínicas do farmacêutico (Res. CFF 585/2013)
+- [ ] Prescrição farmacêutica: o que o farmacêutico pode prescrever (Res. CFF 586/2013)
+- [ ] Telefarmácia: o que a resolução do CFF permite (conferir nº vigente)
+- [ ] Consultório farmacêutico: o que precisa para registrar e funcionar (conferir)
+- [ ] Responsabilidade técnica × direção técnica: o que cada uma assume (conferir)
+- [ ] Código de Ética: deveres que mais geram processo ético (conferir)
+- [ ] Licenciamento da farmácia: a ordem dos documentos (CNPJ, CRF, vigilância, AFE) (conferir)
+- [ ] Áreas de atuação do farmacêutico reconhecidas pelo CFF (conferir lista vigente)
+
+## CAR — Carreira e desenvolvimento (mentoria)
+- [ ] Do balcão à gestão: competências que o farmacêutico precisa treinar
+- [ ] Especialização, residência ou MBA: como escolher pelo objetivo
+- [ ] Como montar um plano de carreira de 12 meses
+- [ ] Networking para farmacêutico: por onde começar sem ser invasivo
+- [ ] Empreender na farmácia: consultório próprio, consultoria, telefarmácia
+- [ ] Sinais de que você estagnou na carreira
+
+## PERF — Perfil comportamental e energia
+- [ ] Você está na função certa para o seu perfil?
+- [ ] Tarefas que drenam × tarefas que energizam: como mapear na sua semana
+- [ ] Perfis diferentes no balcão, na gestão e na clínica
+- [ ] Por que o mesmo trabalho cansa um e anima outro
+- [ ] Autoconhecimento antes da próxima promoção
+
+## LEVE — Sextou
+- [ ] "Sextou… só que não": o farmacêutico de plantão no fim de semana
+- [ ] Checklist leve para descansar de verdade na folga
+- [ ] Coisas que só quem trabalha em farmácia entende
+- [ ] Plantão de feriado: como se organizar para não chegar exausto
+
+## CAR (antigo) — Responsabilidade técnica
 - [ ] O que o RT responde pessoalmente numa autuação
 - [ ] Ausência do farmacêutico: como registrar e cobrir
 - [ ] Como treinar a equipe do balcão em 15 minutos por semana

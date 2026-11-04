@@ -24,6 +24,12 @@ Tipos de tela (campo "tipo" de cada item de "telas"):
   enquete pergunta, opcoes[], [lead]                               (stories: enquete/caixa)
   final   titulo, [cta], [fontes]                                 (logo grande)
 Nos textos, <em>…</em> pinta de verde-limão e <b>…</b> destaca.
+
+Chamada para ação (obrigatória): a ÚLTIMA tela de todo post precisa de CTA.
+  - tela "final": campo "cta";
+  - qualquer outro tipo (ex.: card único): campo "cta", que vira uma faixa
+    verde-limão no fim da tela.
+  Sem CTA na última tela, o gerador falha. Modelo de CTA: ver ROTINA.md, seção 3.
 """
 import base64
 import json
@@ -149,6 +155,12 @@ def corpo(t):
     raise ValueError(f"tipo de tela desconhecido: {tipo}")
 
 
+def faixa_cta(t):
+    if t["tipo"] == "final" or not t.get("cta"):
+        return ""
+    return f'<div class="alerta">{t["cta"]}</div>'
+
+
 def pagina(spec, n, total, t, w, h, vertical):
     dots = "".join(f'<span class="{"on" if i == n else ""}"></span>' for i in range(1, total + 1)) if total > 1 else ""
     pill = f'<span class="pill">{n}/{total}</span>' if total > 1 and spec["formato"] == "carrossel" else ""
@@ -159,7 +171,7 @@ def pagina(spec, n, total, t, w, h, vertical):
                  f'<span class="arroba">{ARROBA}</span></div>')
     return f"""<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>{css(w, h, vertical)}</style></head><body>
 <div class="topo"><span class="tag">{spec["tag"]}</span>{pill}</div>
-<div class="conteudo">{corpo(t)}</div>
+<div class="conteudo">{corpo(t)}{faixa_cta(t)}</div>
 <div class="rodape">{marca}<div class="dots">{dots}</div></div></body></html>"""
 
 
@@ -192,6 +204,8 @@ def gerar(caminho_json):
     mn, mx = LIMITES[fmt]
     if not mn <= len(telas) <= mx:
         raise ValueError(f"{fmt} pede de {mn} a {mx} telas; vieram {len(telas)}")
+    if not telas[-1].get("cta"):
+        raise ValueError("a última tela precisa de chamada para ação (campo \"cta\"); ver ROTINA.md, seção 3")
     saida = arq.parent
     for antigo in list(saida.glob("*.jpg")) + list(saida.glob("*.mp4")):
         antigo.unlink()

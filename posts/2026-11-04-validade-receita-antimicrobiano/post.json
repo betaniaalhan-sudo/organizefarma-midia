@@ -1,2 +1,14 @@
-{"formato":"card","tag":"Número da semana · Antimicrobianos","telas":[
-{"tipo":"numero","selo":"Receita de antimicrobiano","numero":"10 dias","titulo":"é a validade da receita, contada a partir da <em>data de emissão</em>.","lead":"Não conta do dia em que o paciente chega ao balcão. Passou do prazo, a receita <b>não vale mais</b> para a dispensação.<br><span style=\"font-size:.68em;color:#9AA3C9\">IN Anvisa nº 360/2025, art. 1º, § 2º</span>"}]}
+{
+ "formato": "card",
+ "tag": "Número da semana · Antimicrobianos",
+ "telas": [
+  {
+   "tipo": "numero",
+   "selo": "Receita de antimicrobiano",
+   "numero": "10 dias",
+   "titulo": "é a validade da receita, contada a partir da <em>data de emissão</em>.",
+   "lead": "Não conta do dia em que o paciente chega ao balcão. Passou do prazo, a receita <b>não vale mais</b> para a dispensação.<br><span style=\"font-size:.68em;color:#9AA3C9\">IN Anvisa nº 360/2025, art. 1º, § 2º</span>",
+   "cta": "Sua farmácia ainda tem dúvida nisso? <b>Fale com a Organize Farma.</b> Nós resolvemos para você. Chame no Direct."
+  }
+ ]
+}
