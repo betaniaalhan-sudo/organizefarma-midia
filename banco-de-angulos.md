@@ -79,7 +79,7 @@ oficial antes de ir para a arte.
 
 ## PERF — Perfil comportamental e energia
 - [ ] Você está na função certa para o seu perfil?
-- [ ] Tarefas que drenam × tarefas que energizam: como mapear na sua semana
+- [x 2026-11-05] Tarefas que drenam × tarefas que energizam: como mapear na sua semana (carrossel)
 - [ ] Perfis diferentes no balcão, na gestão e na clínica
 - [ ] Por que o mesmo trabalho cansa um e anima outro
 - [ ] Autoconhecimento antes da próxima promoção
