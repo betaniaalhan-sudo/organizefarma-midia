@@ -82,13 +82,16 @@ pasta=posts/AAAA-MM-DD-assunto-curto
 mkdir -p $pasta
 # escreva $pasta/post.json   (formatos e tipos de tela: ver topo de fonte/arte.py)
 # escreva $pasta/legenda.txt (1ª linha com gancho; fonte da norma; 3 a 5 hashtags)
+# escreva $pasta/acessibilidade.txt (texto alternativo de cada tela: "Tela 1:", "Tela 2:"…)
 python3 fonte/arte.py $pasta/post.json
 cd ferramenta && python3 -m insta_organize verificar-legenda ../$pasta/legenda.txt
 ```
 Olhe a `previa.jpg` antes de enviar. Acrescente a linha no `posts/registro.csv`
 com status `aguardando`, faça commit e push, e envie à Dra. Betânia as artes
-(as telas em ordem, e o reel.mp4 nos dias de reel) e a legenda pronta para
-copiar, com o horário sugerido. **Ela publica pelo app.**
+(as telas em ordem, e o reel.mp4 nos dias de reel), a legenda pronta para
+copiar, com o horário sugerido, e **o texto alternativo de cada tela** (do
+`acessibilidade.txt`), para ela colar em Configurações avançadas >
+Acessibilidade no app. Sempre, em todo post, sem ela precisar pedir. **Ela publica pelo app.**
 
 Stories com enquete/caixa de perguntas: a API do Instagram não coloca figurinhas.
 As telas vão prontas e ela publica pelo app, adicionando a figurinha na tela marcada.
