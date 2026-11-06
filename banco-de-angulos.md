@@ -85,9 +85,9 @@ oficial antes de ir para a arte.
 - [ ] Autoconhecimento antes da próxima promoção
 
 ## LEVE — Sextou
-- [x 2026-11-06] "Sextou… só que não": o farmacêutico de plantão no fim de semana (reel)
+- [ ] "Sextou… só que não": o farmacêutico de plantão no fim de semana (descartado em 06/11: tema sensível para donos de farmácia e entidades)
 - [ ] Checklist leve para descansar de verdade na folga
-- [ ] Coisas que só quem trabalha em farmácia entende
+- [x 2026-11-06] Coisas que só quem trabalha em farmácia entende (reel)
 - [ ] Plantão de feriado: como se organizar para não chegar exausto
 
 ## CAR (antigo) — Responsabilidade técnica
