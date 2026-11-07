@@ -92,7 +92,7 @@ li::before{{content:'';position:absolute;left:0;top:calc(40px*var(--k));width:26
 .caixa .r{{display:block;font-size:calc(26px*var(--k));font-weight:800;letter-spacing:.08em;text-transform:uppercase;margin-bottom:14px}}
 .mito{{background:rgba(255,255,255,.08);border:2px solid rgba(255,255,255,.2);color:#D7DCF0;margin-bottom:28px}}
 .mito .r{{color:#FF8A80}}
-.verdade{{background:{LIME};color:{NAVY}}} .verdade .r{{color:{NAVY}}}
+.verdade{{background:{LIME};color:{NAVY}}} .verdade .r{{color:{NAVY}}} .verdade em,.verdade b{{color:{NAVY};font-weight:800}}
 .frase{{font-size:calc(68px*var(--k));line-height:1.18;font-weight:800;letter-spacing:-.015em}}
 .aspas{{font-size:200px;line-height:.6;color:{LIME};font-weight:900;display:block;height:110px}}
 .assin{{margin-top:44px;font-size:32px;color:{LIME};font-weight:700}}

@@ -1,0 +1,14 @@
+{
+ "formato": "card",
+ "tag": "Mito × Verdade · Atuação do farmacêutico",
+ "telas": [
+  {
+   "tipo": "mito",
+   "selo": "Farmacêutico na farmácia",
+   "mito": "Basta ter um farmacêutico responsável técnico registrado. Ele não precisa estar lá o tempo todo.",
+   "verdade": "A lei exige <b>farmacêutico presente durante todo o horário de funcionamento</b>. Se o RT não cobre o horário inteiro, outro farmacêutico precisa cobrir o restante.",
+   "nota": "Lei nº 13.021/2014, art. 6º, inciso I. Vale para farmácias de qualquer natureza.",
+   "cta": "Sua escala ainda tem buraco? <b>Fale com a Organize Farma.</b> Nós resolvemos para você. Chame no Direct."
+  }
+ ]
+}

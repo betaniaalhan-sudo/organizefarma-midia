@@ -93,6 +93,7 @@ oficial antes de ir para a arte.
 ## CAR (antigo) — Responsabilidade técnica
 - [ ] O que o RT responde pessoalmente numa autuação
 - [ ] Ausência do farmacêutico: como registrar e cobrir
+- [x 2026-11-07] Farmacêutico presente em todo o horário de funcionamento, não só o RT no papel (Lei 13.021/2014, art. 6º, I) (card mito × verdade)
 - [ ] Como treinar a equipe do balcão em 15 minutos por semana
 - [ ] Rotina semanal do RT que evita autuação
 - [ ] Liderança no balcão: delegar sem perder a responsabilidade
