@@ -71,7 +71,7 @@ oficial antes de ir para a arte.
 
 ## CAR — Carreira e desenvolvimento (mentoria)
 - [ ] Do balcão à gestão: competências que o farmacêutico precisa treinar
-- [ ] Especialização, residência ou MBA: como escolher pelo objetivo
+- [x 2026-11-08] Especialização, residência ou MBA: como escolher pelo objetivo (stories com enquete)
 - [ ] Como montar um plano de carreira de 12 meses
 - [ ] Networking para farmacêutico: por onde começar sem ser invasivo
 - [ ] Empreender na farmácia: consultório próprio, consultoria, telefarmácia

@@ -1,0 +1,46 @@
+{
+ "formato": "stories",
+ "tag": "Domingo de enquete · Carreira",
+ "telas": [
+  {
+   "tipo": "capa",
+   "titulo": "Especialização, residência ou <em>MBA</em>?",
+   "lead": "Cada caminho serve a um objetivo diferente. Antes de escolher, vale saber <b>aonde você quer chegar</b>.",
+   "dica": "Toque para continuar →"
+  },
+  {
+   "tipo": "lista",
+   "selo": "Cada um para um objetivo",
+   "titulo": "Qual combina com o seu plano?",
+   "itens": [
+    "<b>Especialização:</b> aprofundar uma área técnica em que você já atua ou quer atuar.",
+    "<b>Residência:</b> formação em serviço, com prática supervisionada e dedicação intensa.",
+    "<b>MBA:</b> foco em gestão, liderança e negócios."
+   ],
+   "nota": "Nenhum é melhor que o outro. O melhor é o que leva você para a função que você quer exercer."
+  },
+  {
+   "tipo": "enquete",
+   "selo": "Enquete",
+   "pergunta": "Qual é o seu <em>próximo passo</em> na carreira?",
+   "opcoes": ["Especialização", "Residência", "MBA", "Ainda estou decidindo"],
+   "lead": "Vote na figurinha. Sem certo nem errado."
+  },
+  {
+   "tipo": "lista",
+   "selo": "Bastidor",
+   "titulo": "Antes de se matricular, responda:",
+   "itens": [
+    "Que função eu quero exercer daqui a 2 anos?",
+    "Preciso de prática, de aprofundamento técnico ou de gestão?",
+    "Quanto tempo por semana eu tenho, de verdade?"
+   ],
+   "alerta": "Mande sua dúvida na <b>caixa de perguntas</b>: as mais pedidas viram post aqui no perfil."
+  },
+  {
+   "tipo": "final",
+   "titulo": "Escolha pelo objetivo, não pela moda.",
+   "cta": "Quer desenvolver sua carreira e ter mais tempo de qualidade? <b>Fale com a Organize Farma sobre a mentoria de desenvolvimento de carreira.</b> Chame no Direct."
+  }
+ ]
+}
