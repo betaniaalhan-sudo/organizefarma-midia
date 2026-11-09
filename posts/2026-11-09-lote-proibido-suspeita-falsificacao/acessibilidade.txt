@@ -1,0 +1,17 @@
+Tela 1:
+Arte em fundo azul-marinho da Organize Farma. Título: "Lote proibido ou produto suspeito: o que a farmácia faz?". Texto: "Na semana passada a Anvisa proibiu lotes falsificados de medicamentos. Veja o que a RDC 44/2009 manda fazer quando isso chega ao seu estoque." Arraste para o lado.
+
+Tela 2:
+Arte em fundo azul-marinho. Título: "A proibição sai no Diário Oficial". Texto: a Anvisa publica proibições de lotes e recolhimentos por Resolução-RE no Diário Oficial da União e divulga no portal gov.br/anvisa. Quando sai uma, a farmácia precisa conferir o estoque. Quem não acompanha pode ter o produto na prateleira sem saber.
+
+Tela 3:
+Arte em fundo azul-marinho. Título: "Achou o lote ou desconfiou do produto?". Passo 1: separe na hora, em área segura e fora da área de dispensação. Passo 2: identifique que o produto não pode ser vendido nem usado. Passo 3: o farmacêutico notifica imediatamente a autoridade sanitária competente, com os dados de identificação do produto. Passo 4: registre o que foi feito e guarde os documentos. Fonte: RDC 44/2009, artigo 34, parágrafos 1º e 2º.
+
+Tela 4:
+Arte em fundo azul-marinho. Título: "Vencido, violado ou adulterado". Fica segregado e identificado quanto à condição e ao destino. Não pode ser vendido nem usado. Descarte conforme o gerenciamento de resíduos de serviços de saúde e as regras do estado e do município. Recolhimento segue o que determinar a vigilância sanitária ou o fabricante, importador ou distribuidor. Fonte: RDC 44/2009, artigo 38.
+
+Tela 5:
+Arte em fundo azul-marinho. Título: "Comece pelo recebimento". Confira na nota fiscal o nome, o lote e o fabricante do produto (artigo 31, parágrafo 2º). Verifique o estado da embalagem, o lote e a validade legíveis. Defina em POP quem acompanha as publicações da Anvisa e com que frequência. Destaque: rastrear o lote no estoque só é rápido se o recebimento foi bem feito.
+
+Tela 6:
+Logo da Organize Farma Consultoria e Treinamento. Frase: "Lote proibido não pode virar autuação na sua farmácia." Texto: está com dificuldade? Sua empresa ainda não resolveu isso? Fale com a Organize Farma. Nós resolvemos para você. Chame no Direct. Fontes: RDC Anvisa 44/2009, artigos 31, 34 e 38.

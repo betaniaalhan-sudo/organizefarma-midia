@@ -58,6 +58,7 @@ oficial antes de ir para a arte.
 - [ ] RDC 44/2009: os itens de Boas Práticas mais cobrados na inspeção
 - [ ] Temperatura e umidade: registro diário que a vigilância pede
 - [ ] Descarte de medicamentos vencidos e PGRSS na prática
+- [x 2026-11-09] Lote proibido ou suspeita de falsificação: segregar, identificar e notificar (RDC 44/2009, arts. 31, 34 e 38) (carrossel)
 
 ## CFF — Atribuições, responsabilidades e licenciamento
 - [ ] Atribuições clínicas do farmacêutico (Res. CFF 585/2013)
