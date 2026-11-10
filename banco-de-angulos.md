@@ -63,7 +63,7 @@ oficial antes de ir para a arte.
 ## CFF — Atribuições, responsabilidades e licenciamento
 - [ ] Atribuições clínicas do farmacêutico (Res. CFF 585/2013)
 - [ ] Prescrição farmacêutica: o que o farmacêutico pode prescrever (Res. CFF 586/2013)
-- [ ] Telefarmácia: o que a resolução do CFF permite (conferir nº vigente)
+- [x 2026-11-10] Telefarmácia: o que a Res. CFF 727/2022 permite, regras e o que não é telefarmácia (reel)
 - [ ] Consultório farmacêutico: o que precisa para registrar e funcionar (conferir)
 - [ ] Responsabilidade técnica × direção técnica: o que cada uma assume (conferir)
 - [ ] Código de Ética: deveres que mais geram processo ético (conferir)

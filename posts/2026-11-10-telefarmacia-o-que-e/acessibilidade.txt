@@ -1,0 +1,14 @@
+Tela 1:
+Arte em fundo azul-marinho da Organize Farma. Título: "Telefarmácia não é vender remédio pelo app." Texto: "O que a Resolução CFF nº 727/2022 permite de verdade."
+
+Tela 2:
+Arte em fundo azul-marinho. Selo: "O que é". Título: "Farmácia clínica a distância, por meio de tecnologia". Lista das modalidades: teleconsulta farmacêutica; teleinterconsulta com outros profissionais; telemonitoramento do paciente; teleconsultoria.
+
+Tela 3:
+Arte em fundo azul-marinho. Selo: "Regras". Título: "Antes de atender a distância". Lista: informe ao CRF as modalidades e serviços que vai prestar; teleconsulta com consentimento do paciente; registro em prontuário, com sigilo e LGPD; plataforma registrada no CRF.
+
+Tela 4:
+Arte em fundo azul-marinho. Selo: "Atenção". Título: "Isto não é telefarmácia". Lista: vender medicamento por plataforma ou app; responsabilidade técnica não presencial, que é vedada; troca de mensagens assíncronas não é teleconsulta.
+
+Tela 5:
+Logo da Organize Farma Consultoria e Treinamento. Título: "Quer oferecer telefarmácia do jeito certo?" Texto: fazemos o licenciamento de consultório farmacêutico, telefarmácia e farmácia. Fale com a Organize Farma. Chame no Direct. Fonte: Resolução CFF nº 727/2022, publicada no Diário Oficial da União em 20/07/2022.
