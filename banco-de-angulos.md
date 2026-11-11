@@ -76,7 +76,7 @@ oficial antes de ir para a arte.
 - [ ] Como montar um plano de carreira de 12 meses
 - [ ] Networking para farmacêutico: por onde começar sem ser invasivo
 - [ ] Empreender na farmácia: consultório próprio, consultoria, telefarmácia
-- [ ] Sinais de que você estagnou na carreira
+- [x 2026-11-11] Sinais de que você estagnou na carreira (card)
 
 ## PERF — Perfil comportamental e energia
 - [ ] Você está na função certa para o seu perfil?

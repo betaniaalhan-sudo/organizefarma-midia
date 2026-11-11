@@ -1,0 +1,19 @@
+{
+ "formato": "card",
+ "tag": "Carreira · Desenvolvimento profissional",
+ "telas": [
+  {
+   "tipo": "lista",
+   "selo": "Carreira do farmacêutico",
+   "titulo": "Sinais de que sua carreira <em>parou no lugar</em>",
+   "itens": [
+    "Faz tempo que você não aprende <b>nada novo</b> no trabalho",
+    "Sua semana se resume a <b>apagar incêndio</b>",
+    "Você não sabe dizer <b>onde quer estar</b> daqui a um ano",
+    "Você adia cursos e projetos por <b>falta de tempo</b>, não de vontade"
+   ],
+   "nota": "Soou familiar? Não é falta de capacidade. É sinal de que vale parar e planejar o próximo passo.",
+   "cta": "Quer desenvolver sua carreira e ter mais tempo de qualidade? <b>Fale com a Organize Farma sobre a mentoria de desenvolvimento de carreira.</b> Chame no Direct."
+  }
+ ]
+}
