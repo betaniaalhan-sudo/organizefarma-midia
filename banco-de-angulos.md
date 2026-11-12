@@ -79,7 +79,7 @@ oficial antes de ir para a arte.
 - [x 2026-11-11] Sinais de que você estagnou na carreira (card)
 
 ## PERF — Perfil comportamental e energia
-- [ ] Você está na função certa para o seu perfil?
+- [x 2026-11-12] Você está na função certa para o seu perfil? Competência × afinidade; pessoas, processos, decisão, análise (carrossel)
 - [x 2026-11-05] Tarefas que drenam × tarefas que energizam: como mapear na sua semana (carrossel)
 - [ ] Perfis diferentes no balcão, na gestão e na clínica
 - [ ] Por que o mesmo trabalho cansa um e anima outro
