@@ -1,0 +1,14 @@
+{
+ "formato": "card",
+ "tag": "Mito × Verdade · Vigilância sanitária",
+ "telas": [
+  {
+   "tipo": "mito",
+   "selo": "Temperatura e umidade",
+   "mito": "O ar-condicionado fica ligado o dia todo. Não preciso medir temperatura nem umidade.",
+   "verdade": "A norma pede um <b>POP</b> que diga como e em que horário medir temperatura e umidade (no período mais quente do dia) e o que fazer quando der fora da faixa. Na <b>geladeira</b>, a temperatura é <b>medida e registrada todos os dias</b>.",
+   "nota": "RDC Anvisa nº 44/2009, art. 35, §§ 2º a 5º. Registros guardados por, no mínimo, 5 anos (art. 89).",
+   "cta": "Está com dificuldade? <b>Fale com a Organize Farma.</b> Nós resolvemos para você. Chame no Direct."
+  }
+ ]
+}

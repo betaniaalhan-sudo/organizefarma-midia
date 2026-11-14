@@ -56,7 +56,7 @@ oficial antes de ir para a arte.
 - [ ] Mudou layout ou ampliou a farmácia? Quando a vigilância precisa ser comunicada
 - [ ] Termo de intimação × auto de infração: diferença e prazos de defesa (regra local)
 - [ ] RDC 44/2009: os itens de Boas Práticas mais cobrados na inspeção
-- [ ] Temperatura e umidade: registro diário que a vigilância pede
+- [x 2026-11-14] Temperatura e umidade: ar-condicionado não substitui POP de medição; geladeira medida e registrada diariamente (RDC 44/2009, art. 35) (card mito × verdade)
 - [ ] Descarte de medicamentos vencidos e PGRSS na prática
 - [x 2026-11-09] Lote proibido ou suspeita de falsificação: segregar, identificar e notificar (RDC 44/2009, arts. 31, 34 e 38) (carrossel)
 
