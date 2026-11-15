@@ -1,0 +1,47 @@
+{
+ "formato": "stories",
+ "tag": "Alerta · Decisão do STJ",
+ "telas": [
+  {
+   "tipo": "capa",
+   "titulo": "STJ: farmacêutico <em>presente</em> em cada loja, o expediente inteiro",
+   "lead": "Decisão da 2ª Turma no <b>REsp 1.776.753</b>, julgado em 03/11/2026 e divulgado nesta semana.",
+   "dica": "Toque para continuar →"
+  },
+  {
+   "tipo": "lista",
+   "selo": "O que o STJ decidiu",
+   "titulo": "Plantão remoto não substitui",
+   "itens": [
+    "A presença do farmacêutico vale <b>durante todo o horário de funcionamento</b> (Lei 5.991/1973, art. 15, § 1º).",
+    "<b>Cada loja</b> é um estabelecimento. Não basta ter farmacêutico na rede.",
+    "<b>Atendimento remoto</b> ou plantão centralizado não substitui a presença física exigida pela lei."
+   ],
+   "nota": "Caso concreto: ação do MP-MG contra uma rede de Minas Gerais. Não é tema repetitivo, mas reforça o que a lei já diz."
+  },
+  {
+   "tipo": "enquete",
+   "selo": "Enquete",
+   "pergunta": "Na sua farmácia, <em>todo</em> o horário de funcionamento tem farmacêutico presente?",
+   "opcoes": ["Sim, todo o horário", "Tem buracos na escala", "Não sei dizer"],
+   "lead": "Vote na figurinha. Sem julgamento."
+  },
+  {
+   "tipo": "lista",
+   "selo": "Bastidor da semana",
+   "titulo": "Confira a escala desta semana:",
+   "itens": [
+    "Horário de funcionamento × horas de farmacêutico na escala, dia a dia.",
+    "Almoço, folgas e férias cobertos por outro farmacêutico.",
+    "Domingo e feriado: quem está na loja?"
+   ],
+   "alerta": "Dúvida sobre a escala? Mande na <b>caixa de perguntas</b>: as mais pedidas viram post aqui."
+  },
+  {
+   "tipo": "final",
+   "titulo": "Farmacêutico na escala tem que ser farmacêutico <em>na loja</em>.",
+   "cta": "Está com dificuldade? Sua empresa ainda não resolveu isso? <b>Fale com a Organize Farma. Nós resolvemos para você.</b> Chame no Direct.",
+   "fontes": "STJ, 2ª Turma, REsp 1.776.753 (julg. 03/11/2026) · Lei 5.991/1973, art. 15, § 1º · Lei 13.021/2014, art. 6º, I"
+  }
+ ]
+}
