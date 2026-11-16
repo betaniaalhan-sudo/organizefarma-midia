@@ -32,7 +32,7 @@ oficial antes de ir para a arte.
 ## LIC — Licenças, vigilância e documentação
 - [ ] Checklist de documentos que o fiscal pede primeiro
 - [x 2026-11-03] AFE × licença sanitária: qual é qual (reel)
-- [ ] POPs obrigatórios da farmácia e como mantê-los vivos
+- [x 2026-11-16] POPs obrigatórios da farmácia e como mantê-los vivos: mínimos do art. 86, regras do art. 87, capacitação e registros (arts. 24 e 88) (carrossel)
 - [ ] Autoinspeção: como fazer e registrar
 - [ ] PGRSS: o que precisa estar no plano
 - [ ] Prazos de renovação que mais vencem sem ninguém perceber
