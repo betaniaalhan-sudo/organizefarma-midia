@@ -69,6 +69,7 @@ oficial antes de ir para a arte.
 - [ ] Código de Ética: deveres que mais geram processo ético (conferir)
 - [ ] Licenciamento da farmácia: a ordem dos documentos (CNPJ, CRF, vigilância, AFE) (conferir)
 - [ ] Áreas de atuação do farmacêutico reconhecidas pelo CFF (conferir lista vigente)
+- [x 2026-11-17] Res. CFF 13/2026: atribuições do farmacêutico no cuidado das DCNTs (rastreamento, telemonitoramento, vacinação, pé diabético, curativos de menor complexidade, encaminhamento, notificação) e condições (estrutura, capacitação, protocolos, art. 8º) (reel)
 
 ## CAR — Carreira e desenvolvimento (mentoria)
 - [ ] Do balcão à gestão: competências que o farmacêutico precisa treinar
