@@ -72,7 +72,7 @@ oficial antes de ir para a arte.
 - [x 2026-11-17] Res. CFF 13/2026: atribuições do farmacêutico no cuidado das DCNTs (rastreamento, telemonitoramento, vacinação, pé diabético, curativos de menor complexidade, encaminhamento, notificação) e condições (estrutura, capacitação, protocolos, art. 8º) (reel)
 
 ## CAR — Carreira e desenvolvimento (mentoria)
-- [ ] Do balcão à gestão: competências que o farmacêutico precisa treinar
+- [x 2026-11-18] Do balcão à gestão: 4 competências para treinar antes da promoção (pessoas, números, processos, decisão) (card)
 - [x 2026-11-08] Especialização, residência ou MBA: como escolher pelo objetivo (stories com enquete)
 - [ ] Como montar um plano de carreira de 12 meses
 - [ ] Networking para farmacêutico: por onde começar sem ser invasivo

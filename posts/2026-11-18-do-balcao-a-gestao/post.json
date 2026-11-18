@@ -1,0 +1,19 @@
+{
+ "formato": "card",
+ "tag": "Carreira · Desenvolvimento profissional",
+ "telas": [
+  {
+   "tipo": "tabela",
+   "selo": "Do balcão à gestão",
+   "titulo": "4 competências para treinar <em>antes</em> da promoção",
+   "linhas": [
+    ["Pessoas", "Dar feedback, montar escala e treinar a equipe do balcão", "ok"],
+    ["Números", "Entender margem, estoque parado e ruptura", "ok"],
+    ["Processos", "Organizar a rotina e delegar com acompanhamento", "ok"],
+    ["Decisão", "Levar o problema já com uma proposta de solução", "ok"]
+   ],
+   "nota": "O conhecimento técnico trouxe você até aqui. Gestão também se aprende, e dá para começar a treinar no cargo atual.",
+   "cta": "Quer desenvolver sua carreira e ter mais tempo de qualidade? <b>Fale com a Organize Farma sobre a mentoria de desenvolvimento de carreira.</b> Chame no Direct."
+  }
+ ]
+}
