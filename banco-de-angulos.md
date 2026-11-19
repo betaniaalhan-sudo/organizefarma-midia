@@ -84,7 +84,7 @@ oficial antes de ir para a arte.
 - [x 2026-11-05] Tarefas que drenam × tarefas que energizam: como mapear na sua semana (carrossel)
 - [ ] Perfis diferentes no balcão, na gestão e na clínica
 - [ ] Por que o mesmo trabalho cansa um e anima outro
-- [ ] Autoconhecimento antes da próxima promoção
+- [x 2026-11-19] Autoconhecimento antes da próxima promoção: a promoção muda a rotina; 4 perguntas (motivo, troca, pressão, direção); crescer nem sempre é subir de cargo (carrossel)
 
 ## LEVE — Sextou
 - [ ] "Sextou… só que não": o farmacêutico de plantão no fim de semana (descartado em 06/11: tema sensível para donos de farmácia e entidades)
