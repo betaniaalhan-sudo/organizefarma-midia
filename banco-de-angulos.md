@@ -90,7 +90,7 @@ oficial antes de ir para a arte.
 - [ ] "Sextou… só que não": o farmacêutico de plantão no fim de semana (descartado em 06/11: tema sensível para donos de farmácia e entidades)
 - [x 2026-11-13] Checklist leve para descansar de verdade na folga (reel)
 - [x 2026-11-06] Coisas que só quem trabalha em farmácia entende (reel)
-- [ ] Plantão de feriado: como se organizar para não chegar exausto
+- [x 2026-11-20] Plantão de feriado: kit para não chegar exausto (sono na véspera, água e pausa para comer, escala combinada, pausa curta, descanso marcado na agenda) + agradecimento a quem está de plantão (reel, feriado de 20/11)
 
 ## CAR (antigo) — Responsabilidade técnica
 - [ ] O que o RT responde pessoalmente numa autuação
