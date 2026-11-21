@@ -1,0 +1,14 @@
+{
+ "formato": "card",
+ "tag": "Mito × Verdade · Vigilância sanitária",
+ "telas": [
+  {
+   "tipo": "mito",
+   "selo": "Receitas e SNCR",
+   "mito": "Com o SNCR, a receita de papel acabou. A farmácia só pode aceitar receita eletrônica.",
+   "verdade": "A receita em <b>papel continua válida</b>, seguindo as regras de cada tipo de receita, e a emissão eletrônica é <b>opcional</b>. O que mudou: desde <b>30/10/2026</b>, a receita branca (controle especial e sujeita à retenção, como antimicrobianos) <b>emitida eletronicamente</b> precisa estar <b>integrada ao SNCR</b>.",
+   "nota": "Fonte: Anvisa, \"Início de nova etapa do SNCR\" (21/09/2026); RDC Anvisa nº 1.000/2025.",
+   "cta": "Está com dificuldade? <b>Fale com a Organize Farma.</b> Nós resolvemos para você. Chame no Direct."
+  }
+ ]
+}

@@ -18,6 +18,7 @@ oficial antes de ir para a arte.
 - [ ] SNCR × SNGPC: o que cada sistema controla
 - [ ] Cancelamento de registro feito por engano (prazo e quem pode)
 - [ ] Recusa indevida: modelos antigos que ainda valem na transição
+- [x 2026-11-21] Receita de papel continua válida com o SNCR; emissão eletrônica opcional; desde 30/10/2026 receita branca emitida eletronicamente integrada ao SNCR (card mito × verdade)
 - [ ] Receita escaneada ou fotografada não é receita eletrônica
 - [ ] Validade de cada receituário controlado (NR A, B, B2, RCE)
 - [ ] Quantidade máxima por receita (Portaria 344/98)
