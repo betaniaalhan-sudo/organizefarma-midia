@@ -76,7 +76,7 @@ oficial antes de ir para a arte.
 - [x 2026-11-18] Do balcão à gestão: 4 competências para treinar antes da promoção (pessoas, números, processos, decisão) (card)
 - [x 2026-11-08] Especialização, residência ou MBA: como escolher pelo objetivo (stories com enquete)
 - [ ] Como montar um plano de carreira de 12 meses
-- [ ] Networking para farmacêutico: por onde começar sem ser invasivo
+- [x 2026-11-22] Networking para farmacêutico: por onde começar sem ser invasivo (stories com enquete + bastidor da semana)
 - [ ] Empreender na farmácia: consultório próprio, consultoria, telefarmácia
 - [x 2026-11-11] Sinais de que você estagnou na carreira (card)
 

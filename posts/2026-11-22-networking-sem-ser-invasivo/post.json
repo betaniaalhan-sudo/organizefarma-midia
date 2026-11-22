@@ -1,0 +1,50 @@
+{
+ "formato": "stories",
+ "tag": "Domingo de enquete · Carreira",
+ "telas": [
+  {
+   "tipo": "capa",
+   "titulo": "Networking sem ser <em>invasivo</em>",
+   "lead": "Rede de contatos não é pedir emprego no Direct. É <b>ser lembrado pelo que você faz bem</b>.",
+   "dica": "Toque para continuar →"
+  },
+  {
+   "tipo": "lista",
+   "selo": "Por onde começar",
+   "titulo": "4 passos simples",
+   "itens": [
+    "<b>Comece por quem já conhece:</b> colegas de faculdade, estágio e plantão.",
+    "<b>Ofereça antes de pedir:</b> um material útil, a indicação de um curso, a resposta a uma dúvida.",
+    "<b>Apareça onde a profissão está:</b> eventos do CRF, congressos, grupos de estudo.",
+    "<b>Mostre o que você aprende:</b> conte nas redes, sem expor paciente nem empresa."
+   ],
+   "nota": "Na hora de pedir, seja específico: uma conversa de 15 minutos, uma indicação, uma dúvida."
+  },
+  {
+   "tipo": "enquete",
+   "selo": "Enquete",
+   "pergunta": "Networking, para você, é…",
+   "opcoes": ["Natural, faço sempre", "Difícil, fico sem graça", "Só lembro quando preciso", "Nunca pensei nisso"],
+   "lead": "Vote na figurinha. Sem certo nem errado."
+  },
+  {
+   "tipo": "lista",
+   "selo": "Bastidor da semana",
+   "titulo": "O que passou aqui no perfil",
+   "itens": [
+    "<b>Seg:</b> POPs obrigatórios da farmácia",
+    "<b>Ter:</b> Res. CFF 13/2026 e doenças crônicas",
+    "<b>Qua:</b> do balcão à gestão",
+    "<b>Qui:</b> autoconhecimento antes da promoção",
+    "<b>Sex:</b> plantão de feriado",
+    "<b>Sáb:</b> receita de papel continua válida"
+   ],
+   "alerta": "Na <b>caixa de perguntas</b>: que tema você quer ver na próxima semana?"
+  },
+  {
+   "tipo": "final",
+   "titulo": "Contato bom é o que você cultiva antes de precisar.",
+   "cta": "Quer desenvolver sua carreira e ter mais tempo de qualidade? <b>Fale com a Organize Farma sobre a mentoria de desenvolvimento de carreira.</b> Chame no Direct."
+  }
+ ]
+}
