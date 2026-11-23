@@ -35,7 +35,7 @@ oficial antes de ir para a arte.
 - [x 2026-11-03] AFE × licença sanitária: qual é qual (reel)
 - [x 2026-11-16] POPs obrigatórios da farmácia e como mantê-los vivos: mínimos do art. 86, regras do art. 87, capacitação e registros (arts. 24 e 88) (carrossel)
 - [ ] Autoinspeção: como fazer e registrar
-- [ ] PGRSS: o que precisa estar no plano
+- [x 2026-11-23] PGRSS: o que precisa estar no plano (RDC 222/2018: art. 2º § 1º, art. 5º, conteúdo e comprovantes do art. 6º, art. 59 para medicamentos descartados, checklist arts. 7º, 9º, 10 e 91) (carrossel)
 - [ ] Prazos de renovação que mais vencem sem ninguém perceber
 
 ## SERV — Serviços farmacêuticos
