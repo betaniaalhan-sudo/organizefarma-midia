@@ -72,6 +72,8 @@ oficial antes de ir para a arte.
 - [ ] Áreas de atuação do farmacêutico reconhecidas pelo CFF (conferir lista vigente)
 - [x 2026-11-17] Res. CFF 13/2026: atribuições do farmacêutico no cuidado das DCNTs (rastreamento, telemonitoramento, vacinação, pé diabético, curativos de menor complexidade, encaminhamento, notificação) e condições (estrutura, capacitação, protocolos, art. 8º) (reel)
 
+- [x 2026-11-24] Autoridade técnica: o farmacêutico pode recusar dispensação irregular de controlado; ninguém pode obrigar; como agir sob pressão (orientação CFF 29/09/2026; Lei 13.021/2014, arts. 11 e 14) (reel)
+
 ## CAR — Carreira e desenvolvimento (mentoria)
 - [x 2026-11-18] Do balcão à gestão: 4 competências para treinar antes da promoção (pessoas, números, processos, decisão) (card)
 - [x 2026-11-08] Especialização, residência ou MBA: como escolher pelo objetivo (stories com enquete)
