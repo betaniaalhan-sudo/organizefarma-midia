@@ -85,7 +85,7 @@ oficial antes de ir para a arte.
 ## PERF — Perfil comportamental e energia
 - [x 2026-11-12] Você está na função certa para o seu perfil? Competência × afinidade; pessoas, processos, decisão, análise (carrossel)
 - [x 2026-11-05] Tarefas que drenam × tarefas que energizam: como mapear na sua semana (carrossel)
-- [ ] Perfis diferentes no balcão, na gestão e na clínica
+- [x 2026-11-26] Perfis diferentes no balcão, na gestão e na clínica: o que cada rotina costuma pedir (balcão, gestão, clínica, negócio próprio) + 4 perguntas para se observar; liga com o plano de 12 meses de 25/11 (carrossel)
 - [ ] Por que o mesmo trabalho cansa um e anima outro
 - [x 2026-11-19] Autoconhecimento antes da próxima promoção: a promoção muda a rotina; 4 perguntas (motivo, troca, pressão, direção); crescer nem sempre é subir de cargo (carrossel)
 
