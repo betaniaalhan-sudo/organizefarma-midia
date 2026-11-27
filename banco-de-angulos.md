@@ -94,6 +94,7 @@ oficial antes de ir para a arte.
 - [x 2026-11-13] Checklist leve para descansar de verdade na folga (reel)
 - [x 2026-11-06] Coisas que só quem trabalha em farmácia entende (reel)
 - [x 2026-11-20] Plantão de feriado: kit para não chegar exausto (sono na véspera, água e pausa para comer, escala combinada, pausa curta, descanso marcado na agenda) + agradecimento a quem está de plantão (reel, feriado de 20/11)
+- [x 2026-11-27] Black Friday: o que o farmacêutico não coloca em liquidação (pausa para comer, orientação completa, horário de sair, folga) + mentoria (reel)
 
 ## CAR (antigo) — Responsabilidade técnica
 - [ ] O que o RT responde pessoalmente numa autuação
